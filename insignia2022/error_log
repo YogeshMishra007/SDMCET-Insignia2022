@@ -1,0 +1,19 @@
+[09-Jun-2022 23:18:15 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php on line 10
+[09-Jun-2022 23:19:03 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php on line 10
+[09-Jun-2022 23:19:17 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php on line 10
+[09-Jun-2022 23:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_cmp() in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php on line 10
+[09-Jun-2022 23:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_cmp() in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php on line 10
+[10-Jun-2022 00:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php:67
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php on line 67
+[10-Jun-2022 00:10:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php:67
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/public_html/insignia2022/createInsigniaIds.php on line 67
